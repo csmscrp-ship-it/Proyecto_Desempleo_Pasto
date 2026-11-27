@@ -1,0 +1,4 @@
+Fecha,Modelo,Hiperparametros,Semilla,F1_macro,AUC_ROC
+2026-11-27,Random Forest,max_depth=20|n_estimators=50,42,0.5532,0.7155
+2026-11-27,XGBoost,default,42,0.5471,0.7194
+2026-11-27,Regresion Logistica,default,42,0.5117,0.6563
